@@ -1,0 +1,7 @@
+C:\Users\Asus-Pc\source\repos\AddHeaderToFile\AddHeaderToFile\obj\Debug\AddHeaderToFile.csprojAssemblyReference.cache
+C:\Users\Asus-Pc\source\repos\AddHeaderToFile\AddHeaderToFile\obj\Debug\AddHeaderToFile.csproj.CoreCompileInputs.cache
+C:\Users\Asus-Pc\source\repos\AddHeaderToFile\AddHeaderToFile\bin\Debug\AddHeaderToFile.exe.config
+C:\Users\Asus-Pc\source\repos\AddHeaderToFile\AddHeaderToFile\bin\Debug\AddHeaderToFile.exe
+C:\Users\Asus-Pc\source\repos\AddHeaderToFile\AddHeaderToFile\bin\Debug\AddHeaderToFile.pdb
+C:\Users\Asus-Pc\source\repos\AddHeaderToFile\AddHeaderToFile\obj\Debug\AddHeaderToFile.exe
+C:\Users\Asus-Pc\source\repos\AddHeaderToFile\AddHeaderToFile\obj\Debug\AddHeaderToFile.pdb
